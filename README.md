@@ -1,4 +1,4 @@
-# Lab4-07_GPS_Mapping
+# Lab4-08_GPS_Mapping
 
 HEPTA-Sat GPS mapping for the training kit.
 
