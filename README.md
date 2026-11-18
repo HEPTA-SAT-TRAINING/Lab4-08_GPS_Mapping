@@ -4,7 +4,7 @@ HEPTA-Sat GPS mapping for the training kit.
 
 Open in Chrome or Edge (no install required). Web Serial is not supported by Safari or Firefox.
 
-https://hepta-sat-training.github.io/Lab4-07_GPS_Mapping/
+https://hepta-sat-training.github.io/Lab4-08_GPS_Mapping/
 
 1. Run `Lab4-06_Parse_GPGGA_and_GPRMC.ino` on the kit. The page reads its processed `GPGGA` and `GPRMC` lines, shows them in the main pane, and plots fixed GPGGA positions on the map.
 2. Click Select USB / XBee Port and choose the serial port in the browser dialog (baud rate 38400).
